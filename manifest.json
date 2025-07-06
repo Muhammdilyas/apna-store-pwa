@@ -1,0 +1,21 @@
+{
+  "name": "Apna Store",
+  "short_name": "ApnaStore",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#25D366",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/ygQSYtw/apna-store-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/ygQSYtw/apna-store-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
